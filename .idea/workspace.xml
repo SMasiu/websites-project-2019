@@ -2,73 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5e27b95-825e-4a6d-8ab3-1fd0f55abcff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/music-project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/dove.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/main-background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/spotify.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/yt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atoms/ImgHover.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atoms/a-small.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atoms/black-list-item.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atoms/black-list.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atoms/button-light.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atoms/button-secondary.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atoms/button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atoms/card-single-wrapper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atoms/card-title.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atoms/footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atoms/header-content.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atoms/header-wrapper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atoms/heading-big.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atoms/img-wrapper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atoms/input.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atoms/list-item-btn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atoms/logo-wrapper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atoms/main-grid.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atoms/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atoms/nav-link.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atoms/nav-list.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atoms/nav-wrapper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atoms/rep-card.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atoms/social.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/molecules/card-bw.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/molecules/card-single.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/molecules/details-list.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/molecules/download-list.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/molecules/header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/molecules/home-background.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/molecules/join-form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/molecules/link-list.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/molecules/logo-img.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/molecules/logo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/molecules/music.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/molecules/nav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/molecules/photos.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/molecules/quotation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/molecules/representation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/molecules/social-box.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/molecules/upcoming-item.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/molecules/upcoming.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/molecules/we-are.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/organisms/home-page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/theme/global-styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/theme/theme.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/molecules/link-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/molecules/link-list.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -82,19 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
+        <entry file="file://$PROJECT_DIR$/src/molecules/music.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="204">
+              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -103,10 +29,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/index.html">
+        <entry file="file://$PROJECT_DIR$/src/molecules/link-list.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
+            <state relative-caret-position="170">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -138,7 +67,6 @@
         <option value="$PROJECT_DIR$/src/molecules/Footer.js" />
         <option value="$PROJECT_DIR$/src/molecules/footer.js" />
         <option value="$PROJECT_DIR$/src/atoms/footer.js" />
-        <option value="$PROJECT_DIR$/src/molecules/link-list.js" />
         <option value="$PROJECT_DIR$/src/molecules/details-list.js" />
         <option value="$PROJECT_DIR$/src/atoms/black-list-item.js" />
         <option value="$PROJECT_DIR$/src/atoms/black-list.js" />
@@ -162,7 +90,6 @@
         <option value="$PROJECT_DIR$/src/atoms/main-grid.js" />
         <option value="$PROJECT_DIR$/src/molecules/upcoming-item.js" />
         <option value="$PROJECT_DIR$/src/molecules/representation.js" />
-        <option value="$PROJECT_DIR$/src/molecules/music.js" />
         <option value="$PROJECT_DIR$/src/atoms/nav-wrapper.js" />
         <option value="$PROJECT_DIR$/src/atoms/nav-list.js" />
         <option value="$PROJECT_DIR$/src/atoms/nav-link.js" />
@@ -171,6 +98,8 @@
         <option value="$PROJECT_DIR$/src/molecules/social-box.js" />
         <option value="$PROJECT_DIR$/src/theme/global-styles.js" />
         <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/molecules/music.js" />
+        <option value="$PROJECT_DIR$/src/molecules/link-list.js" />
       </list>
     </option>
   </component>
@@ -188,6 +117,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -200,11 +130,21 @@
               <item name="music-project" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="music-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="music-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="music-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="music-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="molecules" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -243,12 +183,13 @@
       <updated>1558770517842</updated>
       <workItem from="1558770524550" duration="21333000" />
       <workItem from="1558809153478" duration="3934000" />
-      <workItem from="1558814200620" duration="360000" />
+      <workItem from="1558814200620" duration="624000" />
+      <workItem from="1558888011373" duration="620000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25627000" />
+    <option name="totallyTimeSpent" value="26511000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -265,9 +206,9 @@
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="npm" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.24980299" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.24980299" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.49960598" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49960598" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.500394" side_tool="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
@@ -385,16 +326,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="12" selection-end-line="25" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/molecules/link-list.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="11" selection-end-line="17" selection-end-column="24" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -544,16 +475,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/molecules/music.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/molecules/nav.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -653,14 +574,14 @@
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -669,8 +590,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
+        <state relative-caret-position="442">
+          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/molecules/music.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/molecules/link-list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
